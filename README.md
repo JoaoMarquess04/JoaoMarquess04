@@ -1,9 +1,8 @@
 ## This account is for my private achievements
-
+-MySQL😍\
+-Java😁\
 -HTML&CSS😉\
 -Python😎\
--Java😁\
--MySQL😍\
 -C/C++ 😐
 
 
